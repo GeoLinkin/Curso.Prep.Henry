@@ -1,0 +1,9 @@
+Variables: es un lugar donde puedes guardar algo que quieras usar luego, como un baul de los juguetes.
+
+Strings: es una cadena de texto que solo se debe escribir entre comillas.
+
+Funciones (argumento, return): son objetos especiales que pueden ser llamados o invocados y pueden tener variables las cuales se denominan argumentos y son usadas dentro de la funcion, la funcion puede llevar muchos argumentos. El return permite que los datos de la funcion puedan escapar de ella y ser mostrados por fuera de la misma, cuando la funcion se encuentra con un return se detiene inmediatamente en ese punto.
+
+Declaraciones if: permiten el control de flujo de la informacion verificando si algo cumple con la condicion continua y de lo contrario termina.
+
+Valores Booleanos (true, false): nos permite darle significado a algo si es verdero o falso.
