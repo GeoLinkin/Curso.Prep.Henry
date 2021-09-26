@@ -230,6 +230,7 @@ function retornarPerimetro(lado){
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
+  return ((base*altura)/2);
 
 }
 
@@ -238,6 +239,7 @@ function deEuroAdolar(euro){
   //Supongamos que 1 euro equivale a 1.20 dólares. Escribe un programa que reciba
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
+  return(euro * 1.20);
   
 }
 
@@ -249,7 +251,28 @@ function esVocal(letra){
   // Si no es vocal, tambien debe devolver "Dato incorrecto".
   //Escribe tu código aquí
   
+    if (letra.length < 2){
+      if(letra === "a"){
+        return("Es vocal");                   
+      }
+      if(letra === "e"){
+        return("Es vocal");
+      }
+      if(letra === "i"){
+        return("Es vocal")
+      }
+      if(letra === "o"){
+        return("Es vocal")
+      }
+      if(letra === "u"){
+        return("Es vocal")
+      }
+  return("Dato incorrecto")
+    }
+return("Dato incorrecto")
+
 }
+
 
 
 
