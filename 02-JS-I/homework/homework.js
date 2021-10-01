@@ -259,17 +259,17 @@ function esVocal(letra){
         return("Es vocal");
       }
       if(letra === "i"){
-        return("Es vocal")
+        return("Es vocal");
       }
       if(letra === "o"){
-        return("Es vocal")
+        return("Es vocal");
       }
       if(letra === "u"){
-        return("Es vocal")
+        return("Es vocal");
       }
-  return("Dato incorrecto")
+  return("Dato incorrecto");
     }
-return("Dato incorrecto")
+return("Dato incorrecto");
 
 }
 

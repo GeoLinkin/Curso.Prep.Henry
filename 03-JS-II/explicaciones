@@ -1,0 +1,13 @@
+1.
+
+for 
+ se refiere a un elemento que permite que una accion se realice una cantidad definida de veces y que va incrementando pero que tambien tiene un punto definido en el que se detiene. 
+
+&&
+este elemento es "Y" evalua dos cosas y devolvera una respuesta verdadera si ambas son ciertas, si alguna de las cosas es denominada falsa, devolvera una respuesta false la accion no se ejecutara.
+
+||
+este elemento es "O" y se encarga de evaluar dos cosas y devolvera una respuesta verdadera si una de las dos es verdadera, devolvera false si una de las dos es falsa.
+
+!
+este elemento es "NOT" y devolvera el valor contrario que se esta dando.
