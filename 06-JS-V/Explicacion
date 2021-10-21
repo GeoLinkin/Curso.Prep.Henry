@@ -1,0 +1,3 @@
+Explicacion de prototype
+
+El prototype es como una especie de archivador secreto que tiene funciones ocultas de los objetos de javascript y al cual tambien podemos agregarle nuestras propias funciones en ese archivador oculto.
