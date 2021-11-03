@@ -4,6 +4,7 @@ h1 {
   
   img {
     width: 400px;
+    border-radius: 10%;
   }
 
   #thirdDiv{
@@ -18,3 +19,17 @@ h1 {
     font-size: 18px; 
     margin: 50px;
   }
+
+  body {
+     margin: 10px 25%;
+     justify-content: center;
+  }
+
+  .divClass {
+    border: 2px black solid;
+    text-align: center;
+    width: 600px;
+    
+  }
+
+  
