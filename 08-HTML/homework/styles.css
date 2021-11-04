@@ -23,12 +23,18 @@ h1 {
   body {
      margin: 10px 25%;
      justify-content: center;
+     background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49bef38f-5a02-4942-ab13-80e506b0120f/d51ggwp-9816cb89-8367-47d7-9d57-3b07a35caeeb.jpg/v1/fill/w_622,h_350,q_70,strp/eisbrecher_by_horsepoint_d51ggwp-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNDliZWYzOGYtNWEwMi00OTQyLWFiMTMtODBlNTA2YjAxMjBmXC9kNTFnZ3dwLTk4MTZjYjg5LTgzNjctNDdkNy05ZDU3LTNiMDdhMzVjYWVlYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yg1afczwFJAkxNoTWRlDZ5UvATXg6Ef2ZpGDgIqZDnE");
+     background-size: cover;
+     background-repeat: no-repeat;
+     
+     
   }
 
   .divClass {
     border: 2px black solid;
-    text-align: center;
     width: 600px;
+    text-align: center;
+    font-size: 12px;
     
   }
 
